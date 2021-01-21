@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/duckhunt.png
 title: Duck Hunt
-permalink: projects/vacay
+permalink: projects/duckhunt
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-19
 labels:
