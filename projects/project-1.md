@@ -11,6 +11,8 @@ labels:
 summary: This is my first ever project that I finished in ICS 111
 ---
 
+  <img class="ui image" src="../images/catsndogs.png">
+  
 <div class="ui small rounded images">
   <img class="ui image" src="../images/catsndogs.png">
 </div>
