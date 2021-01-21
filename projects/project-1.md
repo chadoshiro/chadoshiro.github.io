@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/catsndogs.png
 title: Graffiti Wall
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
