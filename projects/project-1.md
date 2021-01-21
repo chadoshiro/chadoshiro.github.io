@@ -15,7 +15,10 @@ summary: This is my first ever project that I finished in ICS 111
   <img class="ui image" src="../images/catsndogs.png">
 </div>
 
-Before taking ICS 111 I had no prior experience with coding. This was a whole new world for me and I was very scared because computer science is a hard major. Doing this project really opened my eyes to the possiblilties of coding and what I could do. Once I finished the project, I felt relieved but most importantly excited because I wanted to know what else I could do. Even though this project is fairly simple, it made me feel like I could do anything and I belonged in this major.
+Before taking ICS 111 I had no prior experience with coding. This was a whole new world for me and I was very scared because computer science is a hard major. Doing this project really opened my eyes to the possiblilties of coding and what I could do. Once I finished the project, I felt relieved but most importantly<div class="ui small rounded images">
+  <img class="ui image" src="../images/catsndogs.png">
+</div>
+ excited because I wanted to know what else I could do. Even though this project is fairly simple, it made me feel like I could do anything and I belonged in this major.
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/catsndogs.png">
