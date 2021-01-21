@@ -91,43 +91,24 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "organization": "Relay for Life ",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
+      "position": "Volunteer",
+      "startDate": "2018-2-10",
       "endDate": "",
-      "summary": "",
+      "summary": "Helped out at the event from beginning to end and did what they needed me to do",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Set up tables, chairs, signs, and posters",
+        "Worked in a foodtruck as a cashier"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Distinguished Senior Project",
+      "date": "2018",
+      "awarder": "Maryknoll School",
+      "summary": "A select few are given the distinguished by passing the senior project with a grade of 95% or higher"
     }
   ],
   "references": [
