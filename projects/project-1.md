@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/catsndogs.png
 title: Graffiti Wall
-permalink: projects/micromouse
+permalink: projects/graffitiwall
 # All dates must be YYYY-MM-DD format!
 date: 2019-02-20
 labels:
