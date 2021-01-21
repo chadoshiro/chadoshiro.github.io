@@ -13,5 +13,5 @@ labels:
 summary: At my high school, we had to do a senior project where we present a topic of our choice to graduate.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui medium right floated rounded image" src="../images/relay.png">
 
