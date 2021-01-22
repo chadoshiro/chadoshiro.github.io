@@ -8,7 +8,7 @@ labels:
   - Javascript
 ---
 
-<img class="ui medium right floated rounded image" src="../images/catsndogs.png">
+<img class="ui medium right floated rounded image" src="../images/javascr.png">
 
 Starting a new coding language can be tough. Especially, when you're so used to coding a certain way. With Javascript though, it is fairly simple.
 
