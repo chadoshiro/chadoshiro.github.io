@@ -16,11 +16,11 @@ Starting a new coding language can be tough. Especially, when you're so used to 
 
 I started coding at the beginning of college so I am very new. The only other language that I knew was Java. Knowing Java really helped me understand Javascript more. If you are good with one language it will be easy to understand the basics of Javascript. Even though it's only been two weeks into the semester, I feel more confident in Javascript than I do in Java at this point. It's that easy! Yes, there are some topics that are hard but that's where practice comes into play.
 
-## About Javscript
+## About Javascript
 
 Javascript is a very beginner-friendly language. It is much easier to understand than trying to learn Java as your first language. For example, you don't have to specify what input you want to put in unlike Java where you have to state if it a int or a string. Just using the words "let" and "const" we can make variables in Javascript. There aren't as many rules as there are in other languages. Also if you want to make a function you can just write "function" and then the name of it and you're done. Even though it is easy, this means that there can be errors in this language that wouldn't usually happen in other languages doue to the ambiguity of Javascript.
 
-## JSFiddle vs. Eclpise
+## JSFiddle vs. Eclipse
 
 I wanted to point out as well that the platform that we use for Javascript, JSFiddle, is much easier to use than what we would use for Java, Eclipse. JSFiddle's platform is very simple versus Eclipse which has so much buttons I don't even know what to do with them. I know that there are a lot of shortcuts that you can do with Eclipse, but it's so complicated that I can't use them. For me, JSFiddle has been great even though there are some problems. 
 
