@@ -19,6 +19,6 @@ Before taking ICS 111 I had no prior experience with coding. This was a whole ne
 
 This is a link to the youtube video of "Graffiti Wall": https://www.youtube.com/watch?v=wtv7Y137whI
 
-
+[Graffiti Wall](https://www.youtube.com/watch?v=wtv7Y137whI)
 
 
