@@ -18,4 +18,5 @@ This was my final project for ICS 111. It was a group project so I worked with m
 
 Throughout this project my partner and I struggled with figuring out the coding portion of this project. We really had to work together for this project on every part of it. The biggest takeaway's that I got from this project was that communication is very important and collaboration is vital and also fun. My communication skills grew immensely throughout this. Collaborating with my friend was a lot of fun because we got to bounce ideas off eachother and problem-solve with each other.
 
-This is a link to the youtube video of “Target Hunt: https://www.youtube.com/watch?v=sEJiVE-5VSM
+This is a link to the youtube video of “Target Hunt: [Target Hunt](https://www.youtube.com/watch?v=sEJiVE-5VSM)
+
