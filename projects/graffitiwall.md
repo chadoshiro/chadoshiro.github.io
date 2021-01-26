@@ -17,8 +17,6 @@ Before taking ICS 111 I had no prior experience with coding. This was a whole ne
 
 "Graffiti Wall" is a simple game with no objective. The whole point of this project was to learn how to code, but also to have fun with it. It was made with JAVA which was very hard to understand since I was a newbie. From this project I learned how to code a randomizer and a picture that will follow my cursor. On top of that, we learned how to add sounds when we pressed buttons. I got a lot of practice with simple concepts such as if statements and for loops. Overall, this project was one of my favorite moments coding that I will never forget!
 
-This is a link to the youtube video of "Graffiti Wall": https://www.youtube.com/watch?v=wtv7Y137whI
-
-[Graffiti Wall](https://www.youtube.com/watch?v=wtv7Y137whI)
+This is a link to the youtube video of "Graffiti Wall": [Graffiti Wall](https://www.youtube.com/watch?v=wtv7Y137whI)
 
 
