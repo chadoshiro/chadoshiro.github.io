@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/relay2.png
+image: images/relay3.png
 title: High School Senior Project
 permalink: projects/highschoolseniorproject
 # All dates must be YYYY-MM-DD format!
