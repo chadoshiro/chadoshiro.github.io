@@ -17,6 +17,7 @@ Asking questions can be a very daunting task. You don’t know if you are asking
 ## "Smart" Questions
 
 '''
+
 is this an infinite loop? beginner level
 
 let I = 3;
@@ -25,6 +26,7 @@ while (i) {
 }
 
 Javascript the question asked what is the last value alerted by this code? and it shows the answer of 1. But I believe this is an infinite loop, and tested in console, resulting in laptop burning, had to shut down browser. Am I wrong or the solution was wrong? Thanks
+
 '''
 
 ## "Loser" Questions
