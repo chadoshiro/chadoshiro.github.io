@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: How To Ask Questions The Smart Way
+title: Ask Questions The Smart Way
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-28
 labels:
