@@ -13,7 +13,7 @@ labels:
 summary: At my high school, we had to do a senior project where we present a topic of our choice to graduate.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/relay.png">
+<img class="ui medium right floated rounded image" src="../images/relay3.png">
 
 For my senior project, I decided to talk about lung cancer. I chose this topic because my grandpa passed away due to lung cancer and I wanted to do this in honor of him. In order to pass, we had to do a presentation for about 15 minutes, do 25 hours of community service, and a ton of research. When reasearching, I learned that there are so much that thing that people don't know about lung cancer and how it can truely affect someone physically and mentally. It was very hard to cram all of the material into my presentation because there was a lot of important information for everyone to know. Image retrieved [here](https://secure.acsevents.org/site/SPageServer?pagename=relay).
 
