@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Smart Questions Smart Answers
+title: The Importance of Asking Smart Questions
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-28
 labels:
