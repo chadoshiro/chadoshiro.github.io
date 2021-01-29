@@ -16,13 +16,36 @@ Asking questions can be a very daunting task. You don’t know if you are asking
 
 ## "Smart" Questions
 
+Asking a smart question may take a while to write up, but it will be the best chance for you to get a response that is clear and helpful. Before asking a question, you have to make sure that you have done a few things before even thinking about asking. Like Raymond said in his essay, you should at least try to find the answer by searching it up on the internet, reading the manual or a FAQ, or even asking a friend that is skilled at coding. Here is an example of a ["smart" question](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array).
+
+```
+Why is processing a sorted array faster than processing an unsorted array?
+
+int main()
+{
+    // Generate data
+    const unsigned arraySize = 32768;
+    int data[arraySize];
+
+    for (unsigned c = 0; c < arraySize; ++c)
+        data[c] = std::rand() % 256;
+
+    // !!! With this, the next loop runs faster.
+    std::sort(data, data + arraySize);
+    ...
+    
+My first thought was that sorting brings the data into the cache, but then I thought how silly that was because the array was just generated.
+
+What is going on?
+Why is processing a sorted array faster than processing an unsorted array?
+
+```
 
 
 ## "Loser" Questions
 On the other hand, asking a “loser” question won’t give you the answer that you are looking for. In fact, you might not get an answer at all. It could just irritate and annoy the people that are trying to help you. A “loser” question could be just a broad question that has no background to the situation, which will result in not getting the right answer. It could also be where you immediately ask how to solve the problem without showing that you’ve actually tried solving the problem and finding the solution elsewhere. Remember that these people aren’t obligated to give you an answer. Out of their own kindness, they help people who need it. By asking “loser” questions you are showing them that you aren't worth helping. Here is an example of a ["loser" question](https://stackoverflow.com/questions/65948921/is-this-an-infinite-loop-beginner-level).
 
 ```
-
 Q: Is this an infinite loop? beginner level
 
 let I = 3;
@@ -31,7 +54,6 @@ while (i) {
 }
 
 Javascript the question asked what is the last value alerted by this code? and it shows the answer of 1. But I believe this is an infinite loop, and tested in console, resulting in laptop burning, had to shut down browser. Am I wrong or the solution was wrong? Thanks
-
 ```
 This is a perfect example of what not to do. First off his question is if he was wrong or if the solution was wrong. This shows that he doesn’t care about understanding why he was either right or wrong. He just wants the answer and nothing else. Also he doesn’t show that he tried to find the answer somewhere else like asking a friend or searching it up on the internet. These experts aren’t going to want to answer your question if you don’t really want to learn from it. This is why at the time I am writing this there are no answers and there is also one downvote. 
 
