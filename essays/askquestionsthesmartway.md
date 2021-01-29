@@ -32,7 +32,7 @@ int main()
 
     // !!! With this, the next loop runs faster.
     std::sort(data, data + arraySize);
-    ...
+...
     
 My first thought was that sorting brings the data into the cache, but then I thought how silly that was because the array was just generated.
 
