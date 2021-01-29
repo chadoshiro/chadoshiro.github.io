@@ -15,7 +15,6 @@ labels:
 Asking questions can be a very daunting task. You don’t know if you are asking the right question or even going to get a response. Maybe you don’t want to be a distraction or burden to one of your co-workers for constantly asking them for help. In this field of work though, it is important to be able to ask questions, especially when you have been stuck for a while on the same problem. Asking a “loser” question like “Is this right?” might not give you the answer you were looking for. Instead, asking a “smart” question could give you the answer that you were trying to figure out. This is a great way to not only get an answer back fast and correct, but it helps you to understand how to ask questions in the future that will help you get the answers you are seeking. Image retrieved [here](https://www.kindpng.com/imgv/hxhJxhm_ink-question-mark-zen-ish-calligraphy-hd-png/).
 
 ## "Smart" Questions
-
 Asking a smart question may take a while to write up, but it will be the best chance for you to get a response that is clear and helpful. Before asking a question, you have to make sure that you have done a few things before even thinking about asking. Like Raymond said in his essay, you should at least try to find the answer by searching it up on the internet, reading the manual or a FAQ, or even asking a friend that is skilled at coding. Here is an example of a ["smart" question](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array).
 
 ```
@@ -40,7 +39,7 @@ What is going on?
 Why is processing a sorted array faster than processing an unsorted array?
 
 ```
-
+In this example, you can see that this person actually wanted to learn and also tried to figure out the answer before asking the question right away. They put code in their question and talked about how they tried it in C++ and Java to try to see if it would be faster or not. This shows that they actually tried to figure out what was going on and didn’t ask a question online right away. Also it was great of them to ask the two questions at the end. It shows that they are willing to learn from it and grow as a coder. This was a great example of a “smart” question and you know it because there are a ton of answers from advanced coders and there are also 25225 upvotes.
 
 ## "Loser" Questions
 On the other hand, asking a “loser” question won’t give you the answer that you are looking for. In fact, you might not get an answer at all. It could just irritate and annoy the people that are trying to help you. A “loser” question could be just a broad question that has no background to the situation, which will result in not getting the right answer. It could also be where you immediately ask how to solve the problem without showing that you’ve actually tried solving the problem and finding the solution elsewhere. Remember that these people aren’t obligated to give you an answer. Out of their own kindness, they help people who need it. By asking “loser” questions you are showing them that you aren't worth helping. Here is an example of a ["loser" question](https://stackoverflow.com/questions/65948921/is-this-an-infinite-loop-beginner-level).
