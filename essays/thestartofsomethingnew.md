@@ -10,7 +10,7 @@ labels:
 
 <img class="ui medium right floated rounded image" src="../images/javascr.png">
 
-Starting a new coding language can be tough. Especially, when you're so used to coding a certain way. With Javascript though, it is fairly simple.
+Starting a new coding language can be tough. Especially, when you're so used to coding a certain way. With Javascript though, it is fairly simple. Image retrieved [here](https://www.lifewire.com/difference-between-java-and-javascript-4777619).
 
 ## The Beginning 
 
