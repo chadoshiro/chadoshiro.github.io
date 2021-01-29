@@ -19,7 +19,7 @@ Asking questions can be a very daunting task. You don’t know if you are asking
 Asking a smart question may take a while to write up, but it will be the best chance for you to get a response that is clear and helpful. Before asking a question, you have to make sure that you have done a few things before even thinking about asking. Like Raymond said in his essay, you should at least try to find the answer by searching it up on the internet, reading the manual or a FAQ, or even asking a friend that is skilled at coding. Here is an example of a ["smart" question](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array).
 
 ```
-Why is processing a sorted array faster than processing an unsorted array?
+Q: Why is processing a sorted array faster than processing an unsorted array?
 
 int main()
 {
