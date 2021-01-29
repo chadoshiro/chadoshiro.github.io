@@ -7,7 +7,7 @@ permalink: projects/targethunt
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-19
 labels:
-  - JAVA
+  - Java
   - Teamwork
 summary: My final project for ICS 111. I worked on it with another friend in the class.
 ---
