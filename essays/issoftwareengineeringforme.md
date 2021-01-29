@@ -13,7 +13,7 @@ labels:
 
 ## Switching Majors
 
-Before I was majoring in Computer Science, I was a Mechanical Engineering major. For the first year of college I was questioning my decision with my major because I didn't really have any interest in mechanical engineering. Thankfully, we were required to take ICS 111 which is the start of my computer science journey. It was in that class that I fell in love with coding. Even though it was scary to switch my major, I did it and I haven't looked back since. 
+Before I was majoring in Computer Science, I was a Mechanical Engineering major. For the first year of college I was questioning my decision with my major because I didn't really have any interest in mechanical engineering. Thankfully, we were required to take ICS 111 which is the start of my computer science journey. It was in that class that I fell in love with coding. Even though it was scary to switch my major, I did it and I haven't looked back since. Image retrieved [here](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/).
 
 ## The Software Engineering World
 
