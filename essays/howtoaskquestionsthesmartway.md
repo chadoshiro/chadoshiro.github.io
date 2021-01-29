@@ -18,7 +18,7 @@ Asking questions can be a very daunting task. You don’t know if you are asking
 
 '''
 
-is this an infinite loop? beginner level
+Q: Is this an infinite loop? beginner level
 
 let I = 3;
 while (i) {
