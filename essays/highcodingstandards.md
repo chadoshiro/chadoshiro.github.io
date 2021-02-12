@@ -8,7 +8,7 @@ labels:
   - Coding Standards
 ---
 
-## Introduction
+## Importance of Coding Standards
 
 For most people when coding, they worry about if the code will work or how to even code. Though these are valid thoughts to have, an important topic that gets overlooked is coding standards. Knowing what the coding standards are and implementing it into your code is very important if you want to be the best you can be. It’s very important because if you made a mistake, it will tell you right away what the error is. From there, you can search up the error and figure out what is wrong with your code and fix it. This will help you to learn from that mistake, so when you encounter something similar, you will know what to do to avoid that error. Not only can it help with finding errors, but it will help make your code cleaner and easier to read. I feel that a lot of beginners don’t understand how important clean and legible code is. It’s ten times harder to read a block of code that isn’t properly indented or spaced out. That is why there are tools that can help with these issues such as ESLint. 
 
