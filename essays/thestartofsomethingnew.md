@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: The Start of Something New
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-20
+date: 2021-01-20
 labels:
   - Javascript
 ---
