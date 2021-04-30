@@ -21,9 +21,9 @@ For my final project, I and 3 of my classmates created a website called UH Code 
 
 ## The Use of Design Patterns in Our Website
 
-At the start of making our website I didn't know what design patterns were. Now with a bit of understanding, I can see that I've been using some patterns all along. For instance, my group was using the observer pattern. The observer pattern is when a single object is change, all other object are notified and they change automatically. You can see this when a student signs-up for the website or when the admin submits a new problem. 
+At the start of making our website I didn't know what design patterns were. Now with a bit of understanding, I can see that I've been using some patterns all along. For instance, my group was using the observer pattern. The observer pattern is when a single object is change, all other object are notified and they change automatically. You can see this when a student signs-up for the website or when the admin submits a new problem. Also we used the singleton pattern. The singleton pattern is when a class or an object can be used anywhere in our program. An example of this from our website would be the collections where we store 
 
 ## Avoid Anti Patterns
 
-Design patterns are very important if you want to make a sucessful project, especially if it will be used for a long time after it is made. This is due to antipatterns
+Design patterns are very important if you want to make a sucessful project, especially if it will be used for a long time after it is made. This is due to anti patterns. Anti patterns are patterns that aren't very helpful or wrong to the point where if you changed it, it could break your whole program. The one example of anti patterns that we were taught was lava flow. This is when there is dead code in your program and it just sits there. No one wants to touch it because its been there for so long that they don't want to break something so they leave it there. This is very bad and should be avoided if at all possible.
 
