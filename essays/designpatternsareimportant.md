@@ -21,7 +21,7 @@ For my final project, I and 3 of my classmates created a website called [UH Code
 
 ## The Use of Design Patterns in Our Website
 
-At the start of making our website I didn't know what design patterns were. Now with a bit of understanding, I can see that I've been using some patterns all along. For instance, my group was using the observer pattern. The observer pattern is when a single object is change, all other object are notified and they change automatically. You can see this when a student signs-up for the website or when the admin submits a new problem. Also we used the singleton pattern. The singleton pattern is when a class or an object can be used anywhere in our program. An example of this from our website would be the collections where we store 
+At the start of making our website I didn't know what design patterns were. Now with a bit of understanding, I can see that I've been using some patterns all along. For instance, my group was using the observer pattern. The observer pattern is when a single object is change, all other object are notified and they change automatically. You can see this when a student signs-up for the website or when the admin submits a new problem. Another one that we used was the singleton pattern. The singleton pattern is when a class or an object can be used anywhere in our program. An example of this from our website would be the collections where we store. Also we used the publisher and subscriber pattern when new users are registering and also when the user logs in they will see the work that they have done.
 
 ## Avoid Anti Patterns
 
