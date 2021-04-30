@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-## The problem with problems
+## The Problem with Problems
 
 If you were given 100 problems that were exactly the same, would you rather do it individually everytime, or find a solution the first time so that when you occur the problem again you won't have to go through all the work to get the same answer? 99.9% of people would want the second option. That is where design patterns come in. Design patterns are solutions to common problems that are occured in programming. IT can save a lot of time doing because without it, you would have to change the code over and over again whereas if you implemented a design pattern, which will do the work for you. 
 
