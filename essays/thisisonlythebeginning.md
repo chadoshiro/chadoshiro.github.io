@@ -9,7 +9,7 @@ labels:
   - Reflection
 ---
 
-<img class="ui medium right floated rounded image" src="../images/javascr.png">
+<img class="ui medium right floated rounded image" src="../images/start.png">
 
 ## The Beginning 
 
