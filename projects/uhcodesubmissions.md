@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/uhcodesub.png
+image: images/uhcodesubmissions.png
 title: UH Code Submissions
 permalink: projects/uhcodesubmissions
 # All dates must be YYYY-MM-DD format!
