@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/catsndogs.png
+image: images/landing.png
 title: UH Code Submissions
 permalink: projects/uhcodesubmissions
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
 summary: A website for the PANDA club to use. It is designed to help computer science majors practice algorithm problems.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/catsndogs.png">
+<img class="ui medium right floated rounded image" src="../images/landing.png">
 
 Before taking ICS 111 I had no prior experience with coding. This was a whole new world for me and I was very scared because computer science is a hard major. Doing this project really opened my eyes to the possiblilties of coding and what I could do. Once I finished the project, I felt relieved but most importantly excited because I wanted to know what else I could do. Even though this project is fairly simple, it made me feel like I could do anything and I belonged in this major.
 
