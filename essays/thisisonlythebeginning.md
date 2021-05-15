@@ -13,7 +13,7 @@ labels:
 
 ## The Beginning 
 
-At the beginning of this semester I didn't know what to expect. All of my classes were still online and I was stuck in my room. Out of all of my classes that I've taken this semester, I was the most excited for ICS 314. I really was and still am interested in learning about software engineering since this was my first experience ever. I didn't know what to expect but I was ready for whatever was coming my way! Image retrieved [here](https://www.lifewire.com/difference-between-java-and-javascript-4777619).
+At the beginning of this semester I didn't know what to expect. All of my classes were still online and I was stuck in my room. Out of all of my classes that I've taken this semester, I was the most excited for ICS 314. I really was and still am interested in learning about software engineering since this was my first experience ever. I didn't know what to expect but I was ready for whatever was coming my way! Image retrieved [here](https://www.nbn.org.il/aliyah-inspiration/nbn-blogger-network/long-road-home/).
 
 ## Coding Standards
 
